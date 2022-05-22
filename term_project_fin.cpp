@@ -1,4 +1,4 @@
-// Garrick Morley and Nick Williams
+// Nick Williams
 // CPSC 320 Assignment #5 / Term Project
 // This program simulates traffic and finds out which direction is more efficient to go in at this intersection
 
